@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "daisy.jpeg"
+    },
+    {
+      "id": 2,
+      "image": "dandelion.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "hibiscus.jpg"
+    },
+    {
+      "id": 4,
+      "image": "jasmine.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "lily.jpeg"
+    },
+    {
+      "id": 6,
+      "image": "magnolia.jpg"
+    },
+    {
+      "id": 7,
+      "image": "orchid.jpg"
+    },
+    {
+      "id": 8,
+      "image": "rose.jpeg"
+    },
+    {
+      "id": 9,
+      "image": "sunflower.jpeg"
+    },
+    {
+      "id": 10,
+      "image": "tulip.jpg"
+    },
+    {
+      "id": 11,
+      "image": "violet.jpg"
+    },
+    {
+      "id": 12,
+      "image": "cherryblossom.jpg"
+    }
+  ]
+  
